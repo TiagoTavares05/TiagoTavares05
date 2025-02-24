@@ -5,7 +5,7 @@
 
 - 🌱 Estou estudando **Python e SQL**
 
-- 👯 Hoje em dia estou trabalhando em uma empresa de ensino de programação e lógica para crianças [Logic Minds](https://www.logicminds.com.br)
+- 👯 Hoje em dia estou trabalhando em uma Escola e ensino programação e lógica para crianças [MapleBear]
 
 - 💬 Me pergunte sobre **Python e SQL**
 
