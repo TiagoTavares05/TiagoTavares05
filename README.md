@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou o Tiago Tavares</h1>
 <h3 align="center">Sou um estudante de Sistemas de Informação</h3>
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento e data [Project-Junior-Data-Developer](https://github.com/TiagoTavares05/Project-Junior-Data-Developer)
+- 🔭 Atualmente estou trabalhando com desenvolvimento full-stack e aprendendo sobre frameworks [ProjetoT](https://github.com/TiagoTavares05/ProjetoT)
 
-- 🌱 Estou estudando **Python e SQL**
+- 🌱 Estou estudando **JavaScript, Python, HTML, CSS, C# e SQL**
 
-- 👯 Hoje em dia estou trabalhando em uma Escola e ensino programação e lógica para crianças [MapleBear]
+- 👯 Atualmente, trabalho em uma escola ensinando programação e lógica para crianças. [MapleBear](https://santos.maplebear.com.br/pt/)
 
-- 💬 Me pergunte sobre **Python e SQL**
+- 💬 Me pergunte sobre **Python, SQL, C#, JavaScript, HTML, CSS**
 
 - 📫 Você me acha através do e-mail **tiagofreitastavares@gmail.com**
 
