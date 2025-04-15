@@ -11,7 +11,7 @@
 
 - 📫 Você me acha através do e-mail **tiagofreitastavares@gmail.com**
 
-- 📄 Sobre minhas experiências [https://www.linkedin.com/in/tiago-tavares-a79bb5254/](https://www.linkedin.com/in/tiago-tavares-a79bb5254/)
+- 📄 Sobre minhas experiências [https://www.linkedin.com/in/tiagofreitastavares/](https://www.linkedin.com/in/tiagofreitastavares/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
