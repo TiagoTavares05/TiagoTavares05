@@ -5,9 +5,9 @@
 
 - 🌱 Estou estudando **JavaScript, Python, HTML, CSS, C# e SQL**
 
-- 👯 Atualmente, trabalho em uma escola ensinando programação e lógica para crianças. [MapleBear](https://santos.maplebear.com.br/pt/)
+- 👯 Atualmente, trabalho na Gentrop como desenvolvedor de Software. [Gentrop](https://www.gentrop.com/)
 
-- 💬 Me pergunte sobre **Python, SQL, C#, JavaScript, HTML, CSS**
+- 💬 Me pergunte sobre **Python, SQL, JavaScript**
 
 - 📫 Você me acha através do e-mail **tiagofreitastavares@gmail.com**
 
