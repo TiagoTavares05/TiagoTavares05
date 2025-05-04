@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Tiago Tavares</h1>
 <h3 align="center">Sou um estudante de Sistemas de Informação</h3>
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento full-stack e aprendendo sobre frameworks [ProjetoT](https://github.com/TiagoTavares05/ProjetoT)
+- 🔭 Atualmente estou trabalhando com APIs no projeto [PokeWeather](https://github.com/TiagoTavares05/PokeWeather)
 
 - 🌱 Estou estudando **JavaScript, Python, HTML, CSS, C# e SQL**
 
